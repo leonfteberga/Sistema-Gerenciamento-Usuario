@@ -1,0 +1,43 @@
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\GerenciamentoUsuario.exe.config
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\GerenciamentoUsuario.exe
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\GerenciamentoUsuario.pdb
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.dll
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.dll
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.xml
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.xml
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csprojAssemblyReference.cache
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.Cadastro.resources
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.ControleDeUsuarios.resources
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.Form1.resources
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.Properties.Resources.resources
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csproj.GenerateResource.cache
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csproj.CopyComplete
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.exe
+C:\Users\Netto\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.pdb
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\GerenciamentoUsuario.exe.config
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\GerenciamentoUsuario.exe
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\GerenciamentoUsuario.pdb
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.dll
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.dll
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.xml
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\System.Data.SQLite.xml
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csprojAssemblyReference.cache
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.Cadastro.resources
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.ControleDeUsuarios.resources
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.Form1.resources
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.Properties.Resources.resources
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csproj.GenerateResource.cache
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.csproj.CopyComplete
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.exe
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\obj\Debug\GerenciamentoUsuario.pdb
+C:\Users\Leon Freitas\source\repos\GerenciamentoUsuario\GerenciamentoUsuario\bin\Debug\EasyEncryption.dll
